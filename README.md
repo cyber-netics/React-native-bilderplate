@@ -1,5 +1,4 @@
 # React Native Starter
-React native boilerplate, includes instructions
 [![CircleCI](https://circleci.com/gh/edo92/AWS-ECS-Hosting-Pipeline.svg?style=shield)]()
 [![License](https://img.shields.io/badge/license-MIT-yellow?style=shield)](https://github.com/edo92/AWS-ECS-Hosting-Pipeline/blob/main/LICENSE)
 [![Contribution](https://img.shields.io/badge/contributions-welcome-red.svg?style=shield)](https://github.com/edo92/AWS-ECS-Hosting-Pipeline)
@@ -19,6 +18,8 @@ React native boilerplate, includes instructions
     - `brew install --cask adoptopenjdk/openjdk/adoptopenjdk8`
     - `xcode-select --install`
 
+<br/>
+
 - **Setup Environmental Variables**
     - **Auto Env Setup script/setup**
         - `npm run setup:env`
@@ -30,6 +31,8 @@ React native boilerplate, includes instructions
         - `export PATH=$PATH:$ANDROID_HOME/tools`
         - `export PATH=$PATH:$ANDROID_HOME/tools/bin`
         - `export PATH=$PATH:$ANDROID_HOME/platform-tools`
+
+<br/>
 
 - **Usage**
     - `npm run setup`
