@@ -1,9 +1,12 @@
 # React Native Starter
 
+<br/>
+
 ## Prerequisites
-    - Xcode (Mac)
-    - Android Studio (Mac & Win)
+- Xcode (Mac)
+- Android Studio (Mac & Win)
      
+<br/>
 
 ## MacOs [Environment Setup](https://reactnative.dev/docs/environment-setup)
 - Initial Installations
@@ -22,6 +25,9 @@
         - export PATH=$PATH:$ANDROID_HOME/tools/bin
         - export PATH=$PATH:$ANDROID_HOME/platform-tools
     
+
+<br/>
+<br/>
 
 ## Windows [Environment Setup](https://reactnative.dev/docs/environment-setup)
 - Open windows PowerShell and Run As admin
