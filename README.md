@@ -5,7 +5,7 @@
     - Android Studio (Mac & Win)
      
 
-## MacOs [Setup](https://reactnative.dev/docs/environment-setup)
+## MacOs [Environment Setup](https://reactnative.dev/docs/environment-setup)
 - Initial Installations
     - `brew install node`
     - `brew install watchman`
@@ -23,9 +23,9 @@
         - export PATH=$PATH:$ANDROID_HOME/platform-tools
     
 
-## Win [Initial Installation](https://reactnative.dev/docs/environment-setup)
-    - PowerShell -> Run As admin
-        - choco install -y nodejs.install openjdk8
+## Windows [Environment Setup](https://reactnative.dev/docs/environment-setup)
+- Open windows PowerShell and Run As admin
+    - `choco install -y nodejs.install openjdk8`
 
 
 
