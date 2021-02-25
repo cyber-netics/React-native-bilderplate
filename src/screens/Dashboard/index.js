@@ -2,12 +2,12 @@ import React from "react";
 import { StyleSheet, Text, View, Button } from "react-native";
 import PropTypes from "prop-types";
 
-const DashboardView = (props) => {
+const DashboardScreen = (props) => {
   return (
     <View style={styles.container}>
-      <Text>Dashbard View</Text>
+      <Text>Dashboard Screen</Text>
       <Button
-        title="Go To Main Page"
+        title="Go to Dashboard"
         onPress={() => props.navigation.navigate("Home")}
       />
     </View>
@@ -22,9 +22,9 @@ const styles = StyleSheet.create({
   },
 });
 
-export default DashboardView;
+export default DashboardScreen;
 
-DashboardView.propTypes = {
+DashboardScreen.propTypes = {
   navigation: PropTypes.shape({
     navigate: PropTypes.func.isRequired,
   }).isRequired,
